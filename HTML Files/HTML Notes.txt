@@ -1,0 +1,50 @@
+IE
+- platform dependent: Doesn't work on all machines out of the box
+
+Edge
+- replacement to IE. 
+- 2015 
+- Plateform dependent
+
+Chrome
+- freeware
+- Created for Windows
+- changed so it works on most machines
+- Greater security
+
+FireFox
+- Free
+- Open source: Code is open to the public
+- works on Most OS
+
+Issues of Accessibility
+- ability of a browser to support certain functionalities, HTML5 tags, and features of assertive technology
+--www.html5accessibility.com
+
+
+Lesson: Browsers vary in accesibility and different versions of browsers should be considered when writing your code
+-----------------------------------------------------------------
+
+Decide on a storage place
+Decide a naming convention
+Decide on an editor
+--notepad(++), sublime, textpad
+
+troubleshooting:
+Browser shows tags rather than formatted html
+ -- Check file extension
+code changes don't appeat
+ -- Refresh browser and verify file name
+I get weird characters
+ -- review code syntax
+
+textedit (MAC OS default text Editor)
+Won't work without the following settings
+-preferences
+- New documents
+- plaintext
+-Open and save
+ - Display HTML files as HTML code
+ - save files as UTF 8
+
+
